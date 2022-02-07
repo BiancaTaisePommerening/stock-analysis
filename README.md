@@ -79,7 +79,7 @@ The images below represent the performance measure of the code running results f
 
 1. What are the advantages or disadvantages of refactoring code?
 
-- Refactoring code has many advantages such as using less memory, taking fewer steps and making the code better and more readable for future users, making the code more efficient in general.
+- Refactoring code has many advantages such as using less memory, taking fewer steps and making the code better and more readable for future users, making the code more efficient in general. This efficiency happens with the addition of arrays in order to remove the amount of loops when running the data.
 
 - On the other hand refactoring code has a couple of disadvantages too, such as the fact that it could take a lot of time as you sometimes don't know what you may find along the process, also you may end up accidentally adding new errors to the code.
 
